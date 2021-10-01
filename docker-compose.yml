@@ -15,7 +15,7 @@ services:
     depends_on:
       - web
   web:
-    image: landing
+    image: nginx
     hostname: landing
     ports:
       - "4000:4000"
