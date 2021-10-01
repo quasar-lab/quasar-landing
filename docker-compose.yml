@@ -14,7 +14,7 @@ services:
       - /etc/letsencrypt/live/quasarprotocol.io:/etc/ssl:ro
     depends_on:
       - web
-  web:
+  landing:
     image: nginx
     hostname: landing
     ports:
