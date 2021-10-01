@@ -16,7 +16,7 @@ services:
       - web
   web:
     image: landing
-    hostname: web
+    hostname: landing
     ports:
       - "4000:4000"
     volumes:
