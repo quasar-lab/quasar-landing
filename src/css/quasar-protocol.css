@@ -2856,7 +2856,9 @@ figcaption {
 }
 
 .button-secondary {
-  padding: 22px 56px;
+  margin-right: 16px;
+  margin-bottom: 15px;
+  padding: 15px 22px;
   border-radius: 1000px;
   background-color: #302c3f;
   -webkit-transform: scale3d(1, 1, 1.01);
@@ -2927,6 +2929,7 @@ figcaption {
 
 .button-secondary._2-buttons {
   margin-bottom: 15px;
+  padding: 22px 56px;
 }
 
 .button-secondary.button-white-outline {
@@ -4276,75 +4279,75 @@ figcaption {
   background-color: transparent;
 }
 
-.title.checkout {
+.a.checkout {
   margin-right: 20px;
   margin-bottom: 0px;
 }
 
-.title.order-item-title {
+.a.order-item-title {
   color: #fff;
   font-weight: 700;
   text-decoration: none;
 }
 
-.title.order-item-title:hover {
+.a.order-item-title:hover {
   color: #ff4848;
 }
 
-.title.utility-page {
+.a.utility-page {
   color: #fff;
 }
 
-.title.home-blog {
+.a.home-blog {
   margin-bottom: 0px;
 }
 
-.title.card-home-feature {
+.a.card-home-feature {
   margin-bottom: 9px;
 }
 
-.title.home-perks {
+.a.home-perks {
   margin-bottom: 50px;
 }
 
-.title.h4-size {
+.a.h4-size {
   font-size: 22px;
   line-height: 1.273em;
 }
 
-.title.h4-size.home-perk {
+.a.h4-size.home-perk {
   margin-bottom: 12px;
   color: rgba(255, 255, 255, 0.9);
   font-weight: 700;
 }
 
-.title.h4-size.plan-content-top-features {
+.a.h4-size.plan-content-top-features {
   margin-bottom: 23px;
 }
 
-.title.h4-size.card-contact-category {
+.a.h4-size.card-contact-category {
   margin-bottom: 8px;
 }
 
-.title.h4-size.card-faq {
+.a.h4-size.card-faq {
   margin-right: 20px;
   margin-bottom: 0px;
 }
 
-.title.card-cta {
+.a.card-cta {
   max-width: 503px;
   margin-right: 30px;
   margin-bottom: 0px;
 }
 
-.title.h3-size {
+.a.h3-size {
   color: #fff;
   font-size: 24px;
   line-height: 1.5em;
   font-weight: 700;
 }
 
-.title.h3-size.card-home-step-number {
+.a.h3-size.card-home-step-number {
   display: inline-block;
   margin-bottom: 26px;
   padding: 10px 21px;
@@ -4352,27 +4355,27 @@ figcaption {
   background-color: #5e5b71;
 }
 
-.title.h3-size.card-team-name {
+.a.h3-size.card-team-name {
   margin-bottom: 0px;
 }
 
-.title.h3-size.card-plan-item {
+.a.h3-size.card-plan-item {
   margin-bottom: 4px;
 }
 
-.title.card-home-step {
+.a.card-home-step {
   margin-bottom: 8px;
 }
 
-.title.card-testimonial {
+.a.card-testimonial {
   margin-bottom: 15px;
 }
 
-.title.card-post-item {
+.a.card-post-item {
   margin-bottom: 17px;
 }
 
-.title.footer-menu {
+.a.footer-menu {
   margin-bottom: 28px;
   color: #fff;
   font-size: 20px;
@@ -4380,27 +4383,27 @@ figcaption {
   font-weight: 700;
 }
 
-.title.values {
+.a.values {
   margin-bottom: 30px;
 }
 
-.title.card-value {
+.a.card-value {
   margin-bottom: 8px;
 }
 
-.title.about-offices {
+.a.about-offices {
   margin-bottom: 18px;
 }
 
-.title.card-about-office {
+.a.card-about-office {
   margin-bottom: 8px;
 }
 
-.title.team-item {
+.a.team-item {
   margin-bottom: 8px;
 }
 
-.title.dropdown {
+.a.dropdown {
   margin-bottom: 28px;
   color: #fff;
   font-size: 20px;
@@ -4408,81 +4411,81 @@ figcaption {
   font-weight: 700;
 }
 
-.title.blog {
+.a.blog {
   margin-right: 30px;
   margin-bottom: 20px;
 }
 
-.title.blog-hero {
+.a.blog-hero {
   margin-bottom: 18px;
 }
 
-.title.card-post-featured-item {
+.a.card-post-featured-item {
   margin-bottom: 20px;
 }
 
-.title.blog-post-articles {
+.a.blog-post-articles {
   margin-bottom: 0px;
 }
 
-.title.blog-post {
+.a.blog-post {
   margin-bottom: 16px;
 }
 
-.title.card-author-name {
+.a.card-author-name {
   margin-bottom: 4px;
 }
 
-.title.card-feature-featured {
+.a.card-feature-featured {
   margin-bottom: 18px;
 }
 
-.title.card-feature {
+.a.card-feature {
   margin-bottom: 9px;
   letter-spacing: -0.5px;
 }
 
-.title.features {
+.a.features {
   margin-bottom: 18px;
 }
 
-.title.team-page {
+.a.team-page {
   margin-bottom: 18px;
 }
 
-.title.card-team-page-careers {
+.a.card-team-page-careers {
   margin-bottom: 9px;
 }
 
-.title.team-articles {
+.a.team-articles {
   margin-bottom: 0px;
 }
 
-.title.careers-testimonials {
+.a.careers-testimonials {
   margin-bottom: 24px;
 }
 
-.title.card-careers-perk {
+.a.card-careers-perk {
   margin-bottom: 11px;
 }
 
-.title.careers-hero {
+.a.careers-hero {
   margin-bottom: 18px;
 }
 
-.title.card-career-item {
+.a.card-career-item {
   margin-bottom: 11px;
 }
 
-.title.more-jobs {
+.a.more-jobs {
   margin-bottom: 0px;
 }
 
-.title.card-apply-job {
+.a.card-apply-job {
   margin-bottom: 10px;
 }
 
-.title.h2-size {
+.a.h2-size {
   color: #fff;
   font-size: 44px;
   line-height: 1.182em;
@@ -4490,52 +4493,53 @@ figcaption {
   letter-spacing: 0em;
 }
 
-.title.h2-size.card-career {
+.a.h2-size.card-career {
   max-width: 583px;
   margin-bottom: 20px;
 }
 
-.title.h2-size.card-integration {
+.a.h2-size.card-integration {
   margin-bottom: 14px;
 }
 
-.title.h2-size.add-cart-price {
+.a.h2-size.add-cart-price {
   margin-bottom: 28px;
 }
 
-.title.integrations {
+.a.integrations {
   margin-right: 30px;
   margin-bottom: 20px;
 }
 
-.title.integrations-hero {
+.a.integrations-hero {
   margin-bottom: 18px;
+  font-size: 40px;
 }
 
-.title.card-integration-item {
+.a.card-integration-item {
   margin-bottom: 4px;
 }
 
-.title.more-integrations {
+.a.more-integrations {
   margin-bottom: 0px;
 }
 
-.title.pricing {
+.a.pricing {
   margin-bottom: 20px;
 }
 
-.title.feature-comparison-name {
+.a.feature-comparison-name {
   width: 100%;
   max-width: 219px;
   margin-bottom: 0px;
 }
 
-.title.plan {
+.a.plan {
   margin-right: 20px;
   margin-bottom: 0px;
 }
 
-.title.h1-size {
+.a.h1-size {
   color: #fff;
   font-size: 60px;
   line-height: 1.2em;
@@ -4543,46 +4547,46 @@ figcaption {
   letter-spacing: 0.02em;
 }
 
-.title.h1-size.plan-text {
+.a.h1-size.plan-text {
   margin-bottom: 0px;
 }
 
-.title.h1-size.category-text {
+.a.h1-size.category-text {
   margin-bottom: 0px;
 }
 
-.title.card-get-plan {
+.a.card-get-plan {
   margin-bottom: 8px;
 }
 
-.title.contact-hero {
+.a.contact-hero {
   margin-bottom: 16px;
 }
 
-.title.contact {
+.a.contact {
   margin-bottom: 14px;
 }
 
-.title.h5-size {
+.a.h5-size {
   color: #fff;
   font-size: 18px;
   line-height: 1.333em;
   font-weight: 700;
 }
 
-.title.h5-size.contact-social-media {
+.a.h5-size.contact-social-media {
   margin-bottom: 22px;
 }
 
-.title.faqs {
+.a.faqs {
   margin-bottom: 14px;
 }
 
-.title.not-found {
+.a.not-found {
   margin-bottom: 28px;
 }
 
-.title.category {
+.a.category {
   margin-right: 20px;
   margin-bottom: 0px;
 }
@@ -5595,10 +5599,14 @@ figcaption {
 }
 
 ._2-buttons-wrapper.integrations-hero {
+  margin-top: 40px;
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
   -ms-flex-pack: start;
   justify-content: flex-start;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
 }
 
 .home-hero-images-wrapper {
@@ -7952,7 +7960,7 @@ figcaption {
 }
 
 .integrations-hero-content {
-  max-width: 519px;
+  max-width: 99%;
   margin-right: 20px;
 }
 
@@ -8926,6 +8934,616 @@ figcaption {
   align-items: center;
 }
 
+.text-span {
+  color: #fff;
+  font-size: 24px;
+}
+
+.container-default-copy {
+  max-width: 1246px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 24px;
+  padding-left: 24px;
+}
+
+.container-default-copy.home-hero {
+  position: relative;
+  background-color: transparent;
+}
+
+.container-default-copy.home-features {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.container-default-copy.testimonials {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.container-default-copy.about-hero {
+  position: relative;
+}
+
+.container-default-copy.values {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.container-default-copy.blog-hero {
+  position: relative;
+}
+
+.container-default-copy.blog {
+  position: relative;
+}
+
+.container-default-copy.blog-post {
+  position: relative;
+  margin-bottom: 86px;
+}
+
+.container-default-copy.blog-post-articles {
+  position: relative;
+}
+
+.container-default-copy.features {
+  position: relative;
+}
+
+.container-default-copy.team-page {
+  position: relative;
+}
+
+.container-default-copy.careers-hero {
+  position: relative;
+}
+
+.container-default-copy.career {
+  position: relative;
+}
+
+.container-default-copy.career-divider {
+  position: relative;
+  z-index: 1;
+}
+
+.container-default-copy.integrations {
+  position: relative;
+}
+
+.container-default-copy.integrations-hero {
+  position: relative;
+  z-index: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 80px;
+  padding-bottom: 0px;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+.container-default-copy.integration {
+  position: relative;
+}
+
+.container-default-copy.more-integrations {
+  position: relative;
+}
+
+.container-default-copy.pricing {
+  position: relative;
+}
+
+.container-default-copy.plan-features {
+  position: relative;
+}
+
+.container-default-copy.plan {
+  position: relative;
+}
+
+.container-default-copy.contact-hero {
+  position: relative;
+}
+
+.integrations-hero-wrapper-copy {
+  position: relative;
+  z-index: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #fff;
+}
+
+.section-2 {
+  background-color: #fff;
+}
+
+.text-field {
+  width: 400px;
+  height: 60px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: hsla(0, 0%, 100%, 0.3);
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  font-size: 24px;
+}
+
+.text-field:active {
+  border-color: hsla(0, 0%, 100%, 0.8);
+}
+
+.title-copy {
+  margin-left: 20px;
+  padding: 6px 10px;
+  border-radius: 10px;
+  background-color: #46bd77;
+  font-size: 18px;
+}
+
+.title-copy.checkout {
+  margin-right: 20px;
+  margin-bottom: 0px;
+}
+
+.title-copy.order-item-title {
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.title-copy.order-item-title:hover {
+  color: #ff4848;
+}
+
+.title-copy.utility-page {
+  color: #fff;
+}
+
+.title-copy.home-blog {
+  margin-bottom: 0px;
+}
+
+.title-copy.card-home-feature {
+  margin-bottom: 9px;
+}
+
+.title-copy.home-perks {
+  margin-bottom: 50px;
+}
+
+.title-copy.h4-size {
+  font-size: 22px;
+  line-height: 1.273em;
+}
+
+.title-copy.h4-size.home-perk {
+  margin-bottom: 12px;
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 700;
+}
+
+.title-copy.h4-size.plan-content-top-features {
+  margin-bottom: 23px;
+}
+
+.title-copy.h4-size.card-contact-category {
+  margin-bottom: 8px;
+}
+
+.title-copy.h4-size.card-faq {
+  margin-right: 20px;
+  margin-bottom: 0px;
+}
+
+.title-copy.card-cta {
+  max-width: 503px;
+  margin-right: 30px;
+  margin-bottom: 0px;
+}
+
+.title-copy.h3-size {
+  color: #fff;
+  font-size: 24px;
+  line-height: 1.5em;
+  font-weight: 700;
+}
+
+.title-copy.h3-size.card-home-step-number {
+  display: inline-block;
+  margin-bottom: 26px;
+  padding: 10px 21px;
+  border-radius: 12px;
+  background-color: #5e5b71;
+}
+
+.title-copy.h3-size.card-team-name {
+  margin-bottom: 0px;
+}
+
+.title-copy.h3-size.card-plan-item {
+  margin-bottom: 4px;
+}
+
+.title-copy.card-home-step {
+  margin-bottom: 8px;
+}
+
+.title-copy.card-testimonial {
+  margin-bottom: 15px;
+}
+
+.title-copy.card-post-item {
+  margin-bottom: 17px;
+}
+
+.title-copy.footer-menu {
+  margin-bottom: 28px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 1.1em;
+  font-weight: 700;
+}
+
+.title-copy.values {
+  margin-bottom: 30px;
+}
+
+.title-copy.card-value {
+  margin-bottom: 8px;
+}
+
+.title-copy.about-offices {
+  margin-bottom: 18px;
+}
+
+.title-copy.card-about-office {
+  margin-bottom: 8px;
+}
+
+.title-copy.team-item {
+  margin-bottom: 8px;
+}
+
+.title-copy.dropdown {
+  margin-bottom: 28px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 1.1em;
+  font-weight: 700;
+}
+
+.title-copy.blog {
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+.title-copy.blog-hero {
+  margin-bottom: 18px;
+}
+
+.title-copy.card-post-featured-item {
+  margin-bottom: 20px;
+}
+
+.title-copy.blog-post-articles {
+  margin-bottom: 0px;
+}
+
+.title-copy.blog-post {
+  margin-bottom: 16px;
+}
+
+.title-copy.card-author-name {
+  margin-bottom: 4px;
+}
+
+.title-copy.card-feature-featured {
+  margin-bottom: 18px;
+}
+
+.title-copy.card-feature {
+  margin-bottom: 9px;
+  letter-spacing: -0.5px;
+}
+
+.title-copy.features {
+  margin-bottom: 18px;
+}
+
+.title-copy.team-page {
+  margin-bottom: 18px;
+}
+
+.title-copy.card-team-page-careers {
+  margin-bottom: 9px;
+}
+
+.title-copy.team-articles {
+  margin-bottom: 0px;
+}
+
+.title-copy.careers-testimonials {
+  margin-bottom: 24px;
+}
+
+.title-copy.card-careers-perk {
+  margin-bottom: 11px;
+}
+
+.title-copy.careers-hero {
+  margin-bottom: 18px;
+}
+
+.title-copy.card-career-item {
+  margin-bottom: 11px;
+}
+
+.title-copy.more-jobs {
+  margin-bottom: 0px;
+}
+
+.title-copy.card-apply-job {
+  margin-bottom: 10px;
+}
+
+.title-copy.h2-size {
+  color: #fff;
+  font-size: 44px;
+  line-height: 1.182em;
+  font-weight: 700;
+  letter-spacing: 0em;
+}
+
+.title-copy.h2-size.card-career {
+  max-width: 583px;
+  margin-bottom: 20px;
+}
+
+.title-copy.h2-size.card-integration {
+  margin-bottom: 14px;
+}
+
+.title-copy.h2-size.add-cart-price {
+  margin-bottom: 28px;
+}
+
+.title-copy.integrations {
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+.title-copy.integrations-hero {
+  margin-bottom: 18px;
+  font-size: 40px;
+}
+
+.title-copy.card-integration-item {
+  margin-bottom: 4px;
+}
+
+.title-copy.more-integrations {
+  margin-bottom: 0px;
+}
+
+.title-copy.pricing {
+  margin-bottom: 20px;
+}
+
+.title-copy.feature-comparison-name {
+  width: 100%;
+  max-width: 219px;
+  margin-bottom: 0px;
+}
+
+.title-copy.plan {
+  margin-right: 20px;
+  margin-bottom: 0px;
+}
+
+.title-copy.h1-size {
+  color: #fff;
+  font-size: 60px;
+  line-height: 1.2em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.title-copy.h1-size.plan-text {
+  margin-bottom: 0px;
+}
+
+.title-copy.h1-size.category-text {
+  margin-bottom: 0px;
+}
+
+.title-copy.card-get-plan {
+  margin-bottom: 8px;
+}
+
+.title-copy.contact-hero {
+  margin-bottom: 16px;
+}
+
+.title-copy.contact {
+  margin-bottom: 14px;
+}
+
+.title-copy.h5-size {
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.333em;
+  font-weight: 700;
+}
+
+.title-copy.h5-size.contact-social-media {
+  margin-bottom: 22px;
+}
+
+.title-copy.faqs {
+  margin-bottom: 14px;
+}
+
+.title-copy.not-found {
+  margin-bottom: 28px;
+}
+
+.title-copy.category {
+  margin-right: 20px;
+  margin-bottom: 0px;
+}
+
+._2-buttons-wrapper-copy {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: -24px;
+  margin-bottom: -15px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+._2-buttons-wrapper-copy.integrations-hero {
+  margin-right: 0px;
+  margin-bottom: 0px;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+  font-size: 18px;
+}
+
+.heading {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.form {
+  margin-top: 40px;
+}
+
+.heading-2 {
+  width: auto;
+  font-size: 60px;
+}
+
+.div-block-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 100px;
+  padding: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  border-radius: 20px;
+  background-color: hsla(0, 0%, 100%, 0.06);
+}
+
+.heading-3 {
+  font-size: 30px;
+}
+
+.heading-4 {
+  font-size: 40px;
+}
+
+.heading-5 {
+  margin-right: 20px;
+  font-size: 48px;
+}
+
+.home-steps-grid-copy {
+  position: relative;
+  z-index: 1;
+  grid-row-gap: 40px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
 @media screen and (min-width: 1920px) {
   .section-styleguide {
     padding-top: 224px;
@@ -9146,6 +9764,7 @@ figcaption {
 
   .paragraph-large.home-hero {
     margin-bottom: 40px;
+    font-size: 18px;
   }
 
   .style-guide-subheader {
@@ -9627,121 +10246,121 @@ figcaption {
     padding-left: 60px;
   }
 
-  .title.home-perks {
+  .a.home-perks {
     max-width: 490px;
   }
 
-  .title.h4-size.plan-content-top-features {
+  .a.h4-size.plan-content-top-features {
     margin-bottom: 20px;
   }
 
-  .title.card-cta {
+  .a.card-cta {
     margin-right: 0px;
     margin-bottom: 40px;
   }
 
-  .title.card-testimonial {
+  .a.card-testimonial {
     margin-bottom: 10px;
   }
 
-  .title.footer-menu {
+  .a.footer-menu {
     max-width: 432px;
   }
 
-  .title.values {
+  .a.values {
     margin-bottom: 25px;
   }
 
-  .title.about-offices {
+  .a.about-offices {
     margin-bottom: 10px;
   }
 
-  .title.blog-hero {
+  .a.blog-hero {
     margin-bottom: 10px;
   }
 
-  .title.card-post-featured-item {
+  .a.card-post-featured-item {
     margin-bottom: 15px;
   }
 
-  .title.blog-post {
+  .a.blog-post {
     max-width: 576px;
     margin-bottom: 10px;
   }
 
-  .title.card-feature-featured {
+  .a.card-feature-featured {
     margin-bottom: 10px;
   }
 
-  .title.features {
+  .a.features {
     margin-bottom: 10px;
   }
 
-  .title.team-page {
+  .a.team-page {
     margin-bottom: 10px;
   }
 
-  .title.careers-testimonials {
+  .a.careers-testimonials {
     margin-bottom: 20px;
   }
 
-  .title.card-careers-perk {
+  .a.card-careers-perk {
     margin-bottom: 10px;
   }
 
-  .title.careers-hero {
+  .a.careers-hero {
     margin-bottom: 10px;
   }
 
-  .title.card-career-item {
+  .a.card-career-item {
     margin-bottom: 10px;
   }
 
-  .title.h2-size.card-career {
+  .a.h2-size.card-career {
     margin-bottom: 15px;
   }
 
-  .title.h2-size.card-integration {
+  .a.h2-size.card-integration {
     margin-bottom: 10px;
   }
 
-  .title.integrations {
+  .a.integrations {
     margin-right: 0px;
   }
 
-  .title.integrations-hero {
+  .a.integrations-hero {
     margin-bottom: 10px;
   }
 
-  .title.pricing {
+  .a.pricing {
     margin-bottom: 15px;
   }
 
-  .title.feature-comparison-name {
+  .a.feature-comparison-name {
     max-width: 26%;
   }
 
-  .title.h1-size {
+  .a.h1-size {
     font-size: 50px;
   }
 
-  .title.contact-hero {
+  .a.contact-hero {
     margin-bottom: 10px;
   }
 
-  .title.contact {
+  .a.contact {
     margin-bottom: 10px;
   }
 
-  .title.h5-size.contact-social-media {
+  .a.h5-size.contact-social-media {
     margin-bottom: 20px;
   }
 
-  .title.faqs {
+  .a.faqs {
     margin-bottom: 10px;
   }
 
-  .title.not-found {
+  .a.not-found {
     margin-bottom: 20px;
   }
 
@@ -10665,6 +11284,152 @@ figcaption {
   .category-title-wrapper.blog-category {
     margin-right: 0px;
   }
+
+  .container-default-copy {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+  }
+
+  .container-default-copy.blog-post {
+    margin-bottom: 69px;
+  }
+
+  .integrations-hero-wrapper-copy {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .title-copy.home-perks {
+    max-width: 490px;
+  }
+
+  .title-copy.h4-size.plan-content-top-features {
+    margin-bottom: 20px;
+  }
+
+  .title-copy.card-cta {
+    margin-right: 0px;
+    margin-bottom: 40px;
+  }
+
+  .title-copy.card-testimonial {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.footer-menu {
+    max-width: 432px;
+  }
+
+  .title-copy.values {
+    margin-bottom: 25px;
+  }
+
+  .title-copy.about-offices {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.blog-hero {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.card-post-featured-item {
+    margin-bottom: 15px;
+  }
+
+  .title-copy.blog-post {
+    max-width: 576px;
+    margin-bottom: 10px;
+  }
+
+  .title-copy.card-feature-featured {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.features {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.team-page {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.careers-testimonials {
+    margin-bottom: 20px;
+  }
+
+  .title-copy.card-careers-perk {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.careers-hero {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.card-career-item {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.h2-size.card-career {
+    margin-bottom: 15px;
+  }
+
+  .title-copy.h2-size.card-integration {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.integrations {
+    margin-right: 0px;
+  }
+
+  .title-copy.integrations-hero {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.pricing {
+    margin-bottom: 15px;
+  }
+
+  .title-copy.feature-comparison-name {
+    max-width: 26%;
+  }
+
+  .title-copy.h1-size {
+    font-size: 50px;
+  }
+
+  .title-copy.contact-hero {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.contact {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.h5-size.contact-social-media {
+    margin-bottom: 20px;
+  }
+
+  .title-copy.faqs {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.not-found {
+    margin-bottom: 20px;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -11237,115 +12002,115 @@ figcaption {
     padding-left: 40px;
   }
 
-  .title.card-home-feature {
+  .a.card-home-feature {
     margin-bottom: 6px;
   }
 
-  .title.home-perks {
+  .a.home-perks {
     max-width: 468px;
   }
 
-  .title.h4-size {
+  .a.h4-size {
     font-size: 20px;
   }
 
-  .title.h4-size.plan-content-top-features {
+  .a.h4-size.plan-content-top-features {
     margin-bottom: 15px;
   }
 
-  .title.card-cta {
+  .a.card-cta {
     max-width: 412px;
     margin-bottom: 35px;
   }
 
-  .title.h3-size {
+  .a.h3-size {
     font-size: 22px;
   }
 
-  .title.h3-size.card-home-step-number {
+  .a.h3-size.card-home-step-number {
     margin-bottom: 20px;
   }
 
-  .title.card-home-step {
+  .a.card-home-step {
     margin-bottom: 6px;
   }
 
-  .title.card-post-item {
+  .a.card-post-item {
     margin-bottom: 10px;
   }
 
-  .title.footer-menu {
+  .a.footer-menu {
     margin-bottom: 23px;
   }
 
-  .title.values {
+  .a.values {
     margin-bottom: 20px;
   }
 
-  .title.about-offices {
+  .a.about-offices {
     max-width: 492px;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
   }
 
-  .title.team-item {
+  .a.team-item {
     margin-bottom: 6px;
   }
 
-  .title.dropdown {
+  .a.dropdown {
     margin-bottom: 23px;
   }
 
-  .title.blog {
+  .a.blog {
     margin-right: 0px;
   }
 
-  .title.card-post-featured-item {
+  .a.card-post-featured-item {
     margin-bottom: 10px;
   }
 
-  .title.card-feature {
+  .a.card-feature {
     margin-bottom: 6px;
   }
 
-  .title.careers-testimonials {
+  .a.careers-testimonials {
     margin-bottom: 15px;
   }
 
-  .title.h2-size {
+  .a.h2-size {
     font-size: 37px;
   }
 
-  .title.h2-size.card-career {
+  .a.h2-size.card-career {
     margin-bottom: 10px;
   }
 
-  .title.pricing {
+  .a.pricing {
     margin-bottom: 10px;
   }
 
-  .title.plan {
+  .a.plan {
     margin-right: 13px;
   }
 
-  .title.h1-size {
+  .a.h1-size {
     font-size: 42px;
   }
 
-  .title.h5-size {
+  .a.h5-size {
     font-size: 16px;
   }
 
-  .title.h5-size.contact-social-media {
+  .a.h5-size.contact-social-media {
     margin-bottom: 15px;
   }
 
-  .title.not-found {
+  .a.not-found {
     margin-bottom: 15px;
   }
 
-  .title.category {
+  .a.category {
     margin-right: 13px;
   }
 
@@ -12366,6 +13131,137 @@ figcaption {
   .category-title-wrapper.blog-category {
     margin-bottom: 35px;
   }
+
+  .container-default-copy.blog-post {
+    margin-bottom: 55px;
+  }
+
+  .title-copy.card-home-feature {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.home-perks {
+    max-width: 468px;
+  }
+
+  .title-copy.h4-size {
+    font-size: 20px;
+  }
+
+  .title-copy.h4-size.plan-content-top-features {
+    margin-bottom: 15px;
+  }
+
+  .title-copy.card-cta {
+    max-width: 412px;
+    margin-bottom: 35px;
+  }
+
+  .title-copy.h3-size {
+    font-size: 22px;
+  }
+
+  .title-copy.h3-size.card-home-step-number {
+    margin-bottom: 20px;
+  }
+
+  .title-copy.card-home-step {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.card-post-item {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.footer-menu {
+    margin-bottom: 23px;
+  }
+
+  .title-copy.values {
+    margin-bottom: 20px;
+  }
+
+  .title-copy.about-offices {
+    max-width: 492px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+
+  .title-copy.team-item {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.dropdown {
+    margin-bottom: 23px;
+  }
+
+  .title-copy.blog {
+    margin-right: 0px;
+  }
+
+  .title-copy.card-post-featured-item {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.card-feature {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.careers-testimonials {
+    margin-bottom: 15px;
+  }
+
+  .title-copy.h2-size {
+    font-size: 37px;
+  }
+
+  .title-copy.h2-size.card-career {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.pricing {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.plan {
+    margin-right: 13px;
+  }
+
+  .title-copy.h1-size {
+    font-size: 42px;
+  }
+
+  .title-copy.h5-size {
+    font-size: 16px;
+  }
+
+  .title-copy.h5-size.contact-social-media {
+    margin-bottom: 15px;
+  }
+
+  .title-copy.not-found {
+    margin-bottom: 15px;
+  }
+
+  .title-copy.category {
+    margin-right: 13px;
+  }
+
+  ._2-buttons-wrapper-copy {
+    margin-right: -10px;
+  }
+
+  ._2-buttons-wrapper-copy.integrations-hero {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .home-steps-grid-copy {
+    grid-row-gap: 35px;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -12960,120 +13856,120 @@ figcaption {
     padding-left: 20px;
   }
 
-  .title.card-home-feature {
+  .a.card-home-feature {
     margin-bottom: 4px;
   }
 
-  .title.h4-size {
+  .a.h4-size {
     font-size: 18px;
   }
 
-  .title.h4-size.card-contact-category {
+  .a.h4-size.card-contact-category {
     margin-bottom: 6px;
   }
 
-  .title.card-cta {
+  .a.card-cta {
     max-width: 344px;
     margin-bottom: 30px;
   }
 
-  .title.h3-size {
+  .a.h3-size {
     font-size: 20px;
   }
 
-  .title.h3-size.card-home-step-number {
+  .a.h3-size.card-home-step-number {
     margin-bottom: 15px;
   }
 
-  .title.h3-size.card-plan-item {
+  .a.h3-size.card-plan-item {
     margin-bottom: 2px;
   }
 
-  .title.card-testimonial {
+  .a.card-testimonial {
     margin-bottom: 6px;
   }
 
-  .title.footer-menu {
+  .a.footer-menu {
     margin-bottom: 20px;
   }
 
-  .title.story {
+  .a.story {
     max-width: 343px;
   }
 
-  .title.values {
+  .a.values {
     margin-bottom: 15px;
   }
 
-  .title.card-value {
+  .a.card-value {
     margin-bottom: 6px;
   }
 
-  .title.card-about-office {
+  .a.card-about-office {
     margin-bottom: 6px;
   }
 
-  .title.team-item {
+  .a.team-item {
     margin-bottom: 4px;
   }
 
-  .title.dropdown {
+  .a.dropdown {
     margin-bottom: 20px;
   }
 
-  .title.card-feature {
+  .a.card-feature {
     margin-bottom: 4px;
   }
 
-  .title.card-team-page-careers {
+  .a.card-team-page-careers {
     margin-bottom: 6px;
   }
 
-  .title.careers-testimonials {
+  .a.careers-testimonials {
     margin-bottom: 10px;
   }
 
-  .title.card-careers-perk {
+  .a.card-careers-perk {
     margin-bottom: 6px;
   }
 
-  .title.card-career-item {
+  .a.card-career-item {
     margin-bottom: 6px;
   }
 
-  .title.card-apply-job {
+  .a.card-apply-job {
     margin-bottom: 6px;
   }
 
-  .title.h2-size {
+  .a.h2-size {
     font-size: 31px;
   }
 
-  .title.h2-size.add-cart-price {
+  .a.h2-size.add-cart-price {
     font-size: 28px;
   }
 
-  .title.feature-comparison-name {
+  .a.feature-comparison-name {
     font-size: 16px;
   }
 
-  .title.plan {
+  .a.plan {
     margin-right: 11px;
   }
 
-  .title.h1-size {
+  .a.h1-size {
     font-size: 35px;
   }
 
-  .title.card-get-plan {
+  .a.card-get-plan {
     margin-bottom: 6px;
   }
 
-  .title.not-found {
+  .a.not-found {
     margin-bottom: 10px;
   }
 
-  .title.category {
+  .a.category {
     margin-right: 11px;
   }
 
@@ -13538,7 +14434,27 @@ figcaption {
   }
 
   .home-hero-companies {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
     margin-bottom: -20px;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
   }
 
   .home-perks-content-top-wrapper {
@@ -14271,6 +15187,149 @@ figcaption {
   .cart-list {
     padding-right: 16px;
     padding-left: 16px;
+  }
+
+  .container-default-copy {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+
+  .container-default-copy.blog-post {
+    margin-bottom: 44px;
+  }
+
+  .title-copy.card-home-feature {
+    margin-bottom: 4px;
+  }
+
+  .title-copy.h4-size {
+    font-size: 18px;
+  }
+
+  .title-copy.h4-size.card-contact-category {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.card-cta {
+    max-width: 344px;
+    margin-bottom: 30px;
+  }
+
+  .title-copy.h3-size {
+    font-size: 20px;
+  }
+
+  .title-copy.h3-size.card-home-step-number {
+    margin-bottom: 15px;
+  }
+
+  .title-copy.h3-size.card-plan-item {
+    margin-bottom: 2px;
+  }
+
+  .title-copy.card-testimonial {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.footer-menu {
+    margin-bottom: 20px;
+  }
+
+  .title-copy.story {
+    max-width: 343px;
+  }
+
+  .title-copy.values {
+    margin-bottom: 15px;
+  }
+
+  .title-copy.card-value {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.card-about-office {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.team-item {
+    margin-bottom: 4px;
+  }
+
+  .title-copy.dropdown {
+    margin-bottom: 20px;
+  }
+
+  .title-copy.card-feature {
+    margin-bottom: 4px;
+  }
+
+  .title-copy.card-team-page-careers {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.careers-testimonials {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.card-careers-perk {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.card-career-item {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.card-apply-job {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.h2-size {
+    font-size: 31px;
+  }
+
+  .title-copy.h2-size.add-cart-price {
+    font-size: 28px;
+  }
+
+  .title-copy.feature-comparison-name {
+    font-size: 16px;
+  }
+
+  .title-copy.plan {
+    margin-right: 11px;
+  }
+
+  .title-copy.h1-size {
+    font-size: 35px;
+  }
+
+  .title-copy.card-get-plan {
+    margin-bottom: 6px;
+  }
+
+  .title-copy.not-found {
+    margin-bottom: 10px;
+  }
+
+  .title-copy.category {
+    margin-right: 11px;
+  }
+
+  ._2-buttons-wrapper-copy {
+    margin-right: 0px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    -webkit-align-self: stretch;
+    -ms-flex-item-align: stretch;
+    -ms-grid-row-align: stretch;
+    align-self: stretch;
   }
 }
 
